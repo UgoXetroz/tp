@@ -1,0 +1,34 @@
+body {
+    background-color: black;
+}
+
+.cadre {
+    color: white;
+    /*margin-left: 43%;*/
+    text-align: center;
+    margin-top: 50px;
+    font-size: 30px;
+}
+
+.bandeau {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 10px;
+}
+
+.cadre:hover {
+    transition: 1ms;
+    color: rgba(255, 255, 143, 0.836);
+}
+
+.bandeau:hover {
+    transition: 1ms;
+    color: rgba(255, 255, 143, 0.836);
+}
+
+.admin {
+    color: white;
+    text-align: center;
+    margin-top: 30%;
+}
